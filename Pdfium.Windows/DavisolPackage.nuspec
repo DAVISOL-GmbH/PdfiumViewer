@@ -19,9 +19,9 @@
 		<!-- .Net Standard 2.0 -->
 		<file src="bin\Release\Davisol.Pdfium.Core.dll" target="lib\net472\Davisol.Pdfium.Core.dll" />
 		<file src="bin\Release\Davisol.Pdfium.Core.xml" target="lib\net472\Davisol.Pdfium.Core.xml" />
-		<file src="bin\Release\Davisol.Pdfium.Core.deps.json" target="lib\net472\Davisol.Pdfium.Core.deps.json" />
 		<file src="bin\Release\Davisol.Pdfium.Core.pdb" target="lib\net472\Davisol.Pdfium.Core.pdb" />
 		<file src="bin\Release\Davisol.Pdfium.Windows.dll" target="lib\net472\Davisol.Pdfium.Windows.dll" />
+		<file src="bin\Release\Davisol.Pdfium.Windows.xml" target="lib\net472\Davisol.Pdfium.Windows.xml" />
 		<file src="bin\Release\Davisol.Pdfium.Windows.pdb" target="lib\net472\Davisol.Pdfium.Windows.pdb" />
 		<file src="bin\Release\x64\pdfium.dll" target="lib\net472\pdfium.dll" />
 
