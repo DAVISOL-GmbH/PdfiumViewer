@@ -38,7 +38,7 @@ steps:
   displayName: NuGet pack
   inputs:
     command: 'pack'
-    packagesToPack: '**/*.nuspec'
+    packagesToPack: '**/DavisolPackage.nuspec'
     versioningScheme: 'byBuildNumber'
     includeSymbols: true
 
